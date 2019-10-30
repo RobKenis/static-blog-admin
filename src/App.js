@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import SourceContentOverview from './components/organisms/SourceContentOverview';
+import BlogContentOverview from './components/templates/BlogContentOverview';
 
 function App() {
   return (
-    <SourceContentOverview />
+    <BlogContentOverview />
   );
 }
 
